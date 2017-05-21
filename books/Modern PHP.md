@@ -1,4 +1,4 @@
 # Modern PHP
 * Cover Image
-    *![Alt Modern PHP](http://image.kyobobook.co.kr/images/book/large/250/l9788968482250.jpg)
+    ![Alt Modern PHP](http://image.kyobobook.co.kr/images/book/large/250/l9788968482250.jpg)
 
