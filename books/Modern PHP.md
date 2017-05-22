@@ -1,6 +1,7 @@
 # Modern PHP (한국어판) 
-[![Alt Modern PHP](http://image.kyobobook.co.kr/images/book/large/250/l9788968482250.jpg)][kyoboLink]
-[kyoboLink]: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482250&orderClick=LAG&Kc=#N
+<a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482250&orderClick=LAG&Kc=#N" rel="some text">
+![Alt Modern PHP](http://image.kyobobook.co.kr/images/book/large/250/l9788968482250.jpg)
+</a>
 
 ## 기본정보
 * ISBN: 978-89-6848-225-0
